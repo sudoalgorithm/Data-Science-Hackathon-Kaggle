@@ -1,0 +1,14 @@
+{
+    "id": 1555763789138,
+    "name": "Classification Model - Neural Net - Blood Bank",
+    "latestModelVersion": 1,
+    "author": "999",
+    "createdAt": 1555763789138,
+    "filename": "import",
+    "type": "pmml-model-3.0",
+    "serialization": "pmml",
+    "params": {},
+    "publishedBy": "",
+    "isPublished": false,
+    "publishedModelVersion": -1
+}

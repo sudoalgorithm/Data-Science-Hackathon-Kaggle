@@ -1,0 +1,14 @@
+{
+    "id": 1555763965028,
+    "name": "Classification Model - Tree AS - Blood Bank",
+    "latestModelVersion": 1,
+    "author": "999",
+    "createdAt": 1555763965028,
+    "filename": "import",
+    "type": "pmml-model-3.0",
+    "serialization": "pmml",
+    "params": {},
+    "publishedBy": "",
+    "isPublished": false,
+    "publishedModelVersion": -1
+}
